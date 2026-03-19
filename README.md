@@ -1,4 +1,4 @@
-# apellido-post1-u4 - Patrones de Comportamiento
+##Patrones de Comportamiento
 
 ## Descripción
 Este laboratorio implementa el backend de un sistema de e-commerce en Spring Boot 3.2. El flujo cubre validación secuencial de pedidos y ejecución de acciones reversibles sobre un pedido para modelar operaciones reales del negocio.
